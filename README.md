@@ -1,6 +1,6 @@
 # Pohi AI Pro
 
-https://pohiaipro.netlify.app 
+https://pohiaipro-bolt.netlify.app
 
 ## Environment Setup
 
